@@ -341,7 +341,7 @@ img {
 
     .main_container::after {
 
-        box-shadow: inset 60px 50px 125px #000, inset -60px -50px 125px #000;
+        box-shadow: inset 30px 27px 65px #000, inset -30px -25px 65px #000;
     }
 
     .btn-larger {
