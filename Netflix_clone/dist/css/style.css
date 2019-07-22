@@ -339,15 +339,21 @@ img {
         font-size: 0.8rem;
     }
 
+    .main_container::after {
+
+        box-shadow: inset 60px 50px 125px #000, inset -60px -50px 125px #000;
+    }
+
     .btn-larger {
         font-size: .8rem;
         padding: 0.7rem 1.3rem;
     }
+
     .btn-large {
         font-size: .8rem;
         padding: 0.7rem 1.3rem;
     }
-    
+
 
     .hide-sm {
         display: none;
